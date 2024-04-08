@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "aq5ko3M210eHabcd3esXGXno4zzxLF5rGeZ+X7OtfzZwJtiSK4Hs6hIWPlb47Z7wFsdhncRk/MpyxmIpC5Ksug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andrzzej\\Documents\\Studia pliki\\4 Semestr\\APBD - Aplikacje Baz Danych\\Ćwiczenia\\apbd20-cwiczenia4\\s28492-apbd20-cwiczenia4.2\\s28492-apbd20-cwiczenia4.1\\s28492-apbd20-cwiczenia4.1\\s28492-apbd20-cwiczenia4.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrzzej\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andrzzej\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
+    "C:\\Users\\Andrzzej\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
+    "C:\\Users\\Andrzzej\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Andrzzej\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
+    "C:\\Users\\Andrzzej\\.nuget\\packages\\microsoft.testplatform.testhost\\17.8.0\\microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
+    "C:\\Users\\Andrzzej\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Andrzzej\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Andrzzej\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\Andrzzej\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512",
+    "C:\\Users\\Andrzzej\\.nuget\\packages\\nunit.analyzers\\3.9.0\\nunit.analyzers.3.9.0.nupkg.sha512",
+    "C:\\Users\\Andrzzej\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\Andrzzej\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
